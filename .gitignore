@@ -8,7 +8,7 @@ out/
 # NestJS
 **/dist/
 
-# Coverage
+# Coverage`
 coverage/
 
 # Env
@@ -27,3 +27,5 @@ coverage/
 
 # TypeScript
 *.tsbuildinfo
+
+git remote set-url origin https://github.com/tiwari-vinay/financial-tracking-system.git
