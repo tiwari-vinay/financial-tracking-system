@@ -1,0 +1,29 @@
+# Dependencies
+**/node_modules/
+
+# Next.js
+**/.next/
+out/
+
+# NestJS
+**/dist/
+
+# Coverage
+coverage/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
